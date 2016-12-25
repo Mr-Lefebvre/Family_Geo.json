@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Prenom": "Dominique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0090093612670894,
+          50.47815499510668
+        ]
+      }
+    }
+  ]
+}
