@@ -7,7 +7,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Prenom": "Dominique"
+        "Prenom": "Dominique",
+        "Nom": "LEFEBVRE",
+        "°": "24/02/1955"
       },
       "geometry": {
         "type": "Point",
